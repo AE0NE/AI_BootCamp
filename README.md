@@ -1,1 +1,1 @@
-# Colab_Update
+# GCU AI BootCamp
